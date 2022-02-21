@@ -14,19 +14,19 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "website": "https://github.com/birdfromhell/Media-Search-bot",
+    "repository": "https://github.com/birdfromhell/Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "Bot Token Kamu.",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Dapatkan value dari https://my.telegram.org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "Dapatkan value ini dari https://my.telegram.org",
             "value": ""
         },
         "CHANNELS": {
